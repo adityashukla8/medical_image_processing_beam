@@ -1,5 +1,6 @@
 # Scalable Medical Image Preprocessing using Apache Beam & Google Cloud
-![Medical Image Processing w Apache Beam](https://github.com/user-attachments/assets/36d019bb-0d63-4f26-a71f-467f9d1e7fe2)
+
+![WhatsApp Image 2025-05-18 at 18 42 43](https://github.com/user-attachments/assets/8975a2b9-8092-4491-9ec7-6a6d91a55e52)
 ![Medical Image Processing Dataflow x Apache Beam](https://github.com/user-attachments/assets/c2f3e70b-7b22-4138-bd77-2cfcd59d5d1f)
 
 ## Overview
