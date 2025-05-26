@@ -58,3 +58,10 @@ We used the Mayo Clinic Dataset from Kaggle. It consists of:
 | **TensorFlow** | Used for `TFRecord` serialization |
 | **OpenSlide** | To handle reading of `.tif` Whole Slide Images |
 | **Kaggle Datasets** | Source of Mayo Clinic pathology image data |
+
+---
+
+## References
+
+- [Kaggle Mayo Clinic Challenge](https://www.kaggle.com/competitions/mayo-clinic-strip-ai)
+- [Big Medical Image Preprocessing with Apache Beam](https://dlabs.ai/blog/big-medical-image-preprocessing-with-apache-beam/)
